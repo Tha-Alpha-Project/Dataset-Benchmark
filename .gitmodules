@@ -1,0 +1,9 @@
+[submodule "DeepSportRadar-reid"]
+	path = DeepSportRadar-reid
+	url = https://github.com/DeepSportradar/player-reidentification-challenge
+[submodule "DeepSportRadar-segmentation"]
+	path = DeepSportRadar-segmentation
+	url = https://github.com/DeepSportradar/instance-segmentation-challenge
+[submodule "SportsMOT"]
+	path = SportsMOT
+	url = https://github.com/MCG-NJU/SportsMOT
