@@ -1,0 +1,11 @@
+torch>=1.12
+opencv-python
+numpy
+pandas
+pyyaml
+tqdm
+detectron2
+mmdet
+torchvision
+scikit-learn
+jupyterlab
